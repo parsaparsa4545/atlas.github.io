@@ -247,7 +247,7 @@ nav{
     .serch{
         font-size: 15px;
         position: absolute;
-        padding-bottom: 5.5px;
+        padding-bottom: 6px;
     }
     .nv{
         font-size: 15px;
@@ -283,4 +283,5 @@ nav{
     .psh a{
         font-size: 10px;
     }
+
 }
